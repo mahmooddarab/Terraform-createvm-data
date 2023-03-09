@@ -6,8 +6,8 @@ variable "user" {
   })
   default     = {
     username = "root"
-    password = "Parham@123"
-    vsphere_server = "192.168.32.22"
+    password = "PASSWORD"
+    vsphere_server = "IP_SERVER"
   }
   description = "description"
 }
